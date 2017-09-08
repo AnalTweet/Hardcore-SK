@@ -63,7 +63,7 @@
 
   <ThingDef ParentName="FishThingBase">
     <defName>ThingDefFishSduiggles</defName>
-    <label>sduiggles</label>
+    <label>squiggles</label>
     <description>Found in the swamps and shallow waters. Behind the appearances, this kind of squid is very affectuous and intelligent. Who would like to fish it? You monster!</description>
     <statBases>
       <MoveSpeed>0.01</MoveSpeed>
